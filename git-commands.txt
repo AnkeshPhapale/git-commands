@@ -14,3 +14,4 @@ git checkout master --- to come back at current timeline
 git remote add origin "link"  ------to connect local repo too remote repo
 git remote ------ to check is it connected
 git push origin master   --------to push 
+git pull origin master         ---to pull changes done by others 
