@@ -10,3 +10,7 @@ git log -----  to check all changes
 git checkout timeineid  --- to get
 
 git checkout master --- to come back at current timeline
+
+git remote add origin "link"  ------to connect local repo too remote repo
+git remote ------ to check is it connected
+git push origin master   --------to push 
