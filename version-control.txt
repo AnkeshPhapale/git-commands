@@ -1,0 +1,2 @@
+version control is for versioning the project git is 
+source code controller
