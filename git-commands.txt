@@ -1,0 +1,5 @@
+git status -----to check status
+git init   ------to convert normal folder to git local repo   .git  hidden folder will get created 
+
+git add . ----to add untracked fils to local repo
+git commit -m "message " -----commit the chages 
