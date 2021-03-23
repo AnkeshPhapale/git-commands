@@ -1,0 +1,11 @@
+sqldeveloper ---------->To open Sqldeveloper<----------
+
+
+sudo systemctl stop tomcat.service      ------>To Stop TomCat server<-----------
+
+sudo systemctl start tomcat.service     ------->to start tomcat<------
+
+ng add @ng-bootstrap/ng-bootstrap     ------>To add bootstrap to project<------
+
+
+ ng add @angular/material               ----->to add material<--------
