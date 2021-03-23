@@ -1,2 +1,4 @@
 Hi i am developer and made changes in dev1-command.txt file
 line edited by dev2
+
+// to avoid  conflict always pull changes
