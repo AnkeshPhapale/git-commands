@@ -1,1 +1,2 @@
 git checkout -b bugfix   to create new barnch
+git checkout branch_name // to switch branch
