@@ -1,3 +1,4 @@
 git checkout -b bugfix   to create new barnch
 git checkout branch_name // to switch branch
 changed line 3 to create conflict on main branch 
+
